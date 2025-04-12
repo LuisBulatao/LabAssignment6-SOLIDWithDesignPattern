@@ -9,4 +9,5 @@ Your solution should not violate other SOLID principles.
 
 
 # UML CLASS DIAGRAM
-![SOLIDWithDesignPattern_Bulatao](https://github.com/user-attachments/assets/046b0961-ca24-41e1-b7cb-f00aa0d5ef9e)
+![SOLIDWithDesignPattern_Bulatao](https://github.com/user-attachments/assets/da10c668-a43a-49fe-b76c-bf4f29b00c81)
+
